@@ -1,1 +1,1 @@
-cfx xpi --update-link https://windowsfreak.de/gve-redhead/gve-redhead.xpi --update-url https://windowsfreak.de/gve-redhead/update.rdf
+cfx xpi --update-link https://windowsfreak.de/gve-redhead/gve-redhead.xpi --update-url https://windowsfreak.de/gve-redhead/gve-redhead.update.rdf
