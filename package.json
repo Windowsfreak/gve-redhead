@@ -1,9 +1,10 @@
 {
   "name": "gve-redhead",
-  "title": "gve-redhead",
-  "id": "jid1-dpRrkpxgMeRPSQ",
-  "description": "a basic add-on",
-  "author": "",
+  "title": "GVE Plugin for red headlines",
+  "id": "gve-redhead-jid1-dpRrkpxgMeRPSQ@windowsfreak.de",
+  "description": "You know what to expect in «Hello, this is my first attempt...» statements?",
+  "author": "Björn Eberhardt (http://windowsfreak.de/)",
+  "homepage": "http://windowsfreak.de/",
   "license": "MPL 2.0",
   "version": "0.1"
 }
