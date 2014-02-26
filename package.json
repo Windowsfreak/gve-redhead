@@ -6,5 +6,6 @@
   "author": "Björn Eberhardt (http://windowsfreak.de/)",
   "homepage": "http://windowsfreak.de/",
   "license": "MPL 2.0",
-  "version": "0.4"
+  "version": "0.5",
+  "dependencies": ["menuitems", "addon-sdk"]
 }
