@@ -7,5 +7,5 @@
   "homepage": "http://windowsfreak.de/",
   "license": "MPL 2.0",
   "version": "0.5",
-  "dependencies": ["menuitems", "addon-sdk"]
+  "dependencies": ["menuitems", "toolbarbutton", "addon-sdk"]
 }
